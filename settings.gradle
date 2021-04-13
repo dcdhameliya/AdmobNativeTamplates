@@ -1,0 +1,3 @@
+include ':admobnativetemplates'
+include ':app'
+rootProject.name = "AdmobNativeTemplates"
